@@ -22,7 +22,7 @@ repo init -u https://github.com/LineageOS/android.git -b lineage-20.0
 
 - Clone this repository to .repo/local_manifests for roomservice.xml containing the repositories needed to build for these devices:
 ```
-git clone https://github.com/Viriathe/gtaxl-manifests.git -b lineage-20.0 .repo/local_manifests
+git clone https://github.com/Firmeware/gtaxlwifi-manifests.git -b lineage-20.0 .repo/local_manifests
 ```
 
 - Sync all of the repositories in manifests (including LineageOS manifests):
